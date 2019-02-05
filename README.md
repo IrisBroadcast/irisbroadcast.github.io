@@ -56,25 +56,25 @@ IRIS Connect
 
 ## Features
 
-SIP registrar and proxy supporting standard SIP codecs
-Open Source software and configuration
-Failover between datacenters
-Realtime replication between servers
-Integration with IRIS CCM and discovery using HTTP
-Support for SIP using UDP, TCP and TLS
-Support for IPv6 and IPv4
+- SIP registrar and proxy supporting standard SIP codecs
+- Open Source software and configuration
+- Failover between datacenters
+- Realtime replication between servers
+- Integration with IRIS CCM and discovery using HTTP
+- Support for SIP using UDP, TCP and TLS
+- Support for IPv6 and IPv4
 
 ## Benefits
 
-Standardised SIP server platform supporting all standard SIP user agents.
-Ready-to-run configuration
-Scalable to thousands of devices and calls
+- Standardised SIP server platform supporting all standard SIP user agents.
+- Ready-to-run configuration
+- Scalable to thousands of devices and calls
 
 ## Requirements
 
-Debian Linux
-MySQL database
-RTPengine media server (Open Source)
+- Debian Linux
+- MySQL database
+- RTPengine media server (Open Source)
 
 ## Availability
 
