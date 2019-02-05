@@ -11,6 +11,10 @@ The journey from our launch in May 2017 to the initial release of the software N
 
 Our solutions are based on the EBU and IETF standards and are built for national public radio to manage our external contribution platform.
 
+The CCM software is the heart of the IP based contribution network, giving users an overview of the live calls. It also provides a dynamic directory service to all codecs.
+
+The CCM code is now available on [Github.com/irisbroadcast](http://github.com/irisbroadcast) for download, testing and improvements. We invite you to test it and give us feedback!
+
 # THE SOFTWARE – IRIS CODEC CALL MONITOR
 
 The IRIS Broadcast Platform is a management software for live broadcast using ACIP-compatible codec equipment in a professional radio environment.  A versatile and extensible solution based on many years of experience and thousands of hours of live radio produced.
