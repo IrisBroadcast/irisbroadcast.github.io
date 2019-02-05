@@ -35,18 +35,18 @@ The IRIS Platform is licensed using an Open Source license. We are working on fi
 
 ## Features
 
-Realtime monitoring of all active sessions, including details about the sessions
-Check availability of all connected devices
-Optimize call setup based on network properties, equipment capability
-Integration with many different codecs
-SIP server configuration optimised for live radio contribution
+- Realtime monitoring of all active sessions, including details about the sessions
+- Check availability of all connected devices
+- Optimize call setup based on network properties, equipment capability
+- Integration with many different codecs
+- SIP server configuration optimised for live radio contribution
 
 ## Benefits
 
-Best possible audio used in every session
-Gives the master control room an overview of current sessions
-Get statistics over usage per codec type, region or user
-Helps users find available codecs
+- Best possible audio used in every session
+- Gives the master control room an overview of current sessions
+- Get statistics over usage per codec type, region or user
+- Helps users find available codecs
 
 ## Requirements
 
@@ -54,7 +54,7 @@ Windows Server
 MySQL or MariaDB database server
 IRIS Connect
 
-## Features
+## Technical features
 
 - SIP registrar and proxy supporting standard SIP codecs
 - Open Source software and configuration
