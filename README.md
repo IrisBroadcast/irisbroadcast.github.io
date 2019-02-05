@@ -1,5 +1,7 @@
 # irisbroadcast.github.io
 
+![IRIS Broadcast](logo-iris.png)
+
 [About](README_ABOUT.md)
 
 # Welcome
@@ -20,27 +22,27 @@ The CCM code is now available on [Github.com/irisbroadcast](http://github.com/ir
 The IRIS Broadcast Platform is a management software for live broadcast using ACIP-compatible codec equipment in a professional radio environment.  A versatile and extensible solution based on many years of experience and thousands of hours of live radio produced.
 
 It's a software suite:
-### IRIS Codec Call Monitor (.NET MVC + MySQL /MSSQL) (Windows Server)
-- - Kamailio event reciever
-- - Discovery REST API
-- - General Query REST API + Web Socket (SignalR)
-- - Administrative Interface + Monitor + Statistics
+#### IRIS Codec Call Monitor + Discovery (.NET MVC + MySQL /MSSQL) (Windows Server)
+- Kamailio event reciever
+- Discovery REST API
+- General Query REST API + Web Socket (SignalR)
+- Administrative Interface + Monitor + Statistics
 
-### IRIS Connect (Kamailio) (Debian)
-- - Kamailio configuration for sending events to CCM
+#### IRIS Connect (Kamailio + MySQL + RTPengine media server 'Open Source') (Debian Linux)
+- Kamailio configuration for sending events to CCM
 
-### IRIS Codec Control (.NET CORE MVC) (Windows/Linux) *Add this if you need codec control*
-- - Proxy for Codec Control requests, protocol translation and unification
-- - Query's CCM with SIP-address for getting IP-address to control
-- - REST API + Web Socket (SignalR) interface for codec control
+#### IRIS Codec Control (.NET CORE MVC) (Windows/Linux) *Add this if you need codec control*
+- Proxy for Codec Control requests, protocol translation and unification
+- Query's CCM with SIP-address for getting IP-address to control
+- REST API + Web Socket (SignalR) interface for codec control
 
-## Platform-independent user friendly user interface
+## Platform-independent user friendly interface
 
 Built with the user in focus, IRIS Broadcast delivers a lot of flexibility in a graphical user interface built to support a professional broadcast production. Delivered as a web-based application, the monitor can be used on many devices – from mobile units to wall displays updated in real time.
 
 ## Modular design 
 
-The platform consists of several modules that together support the contribution network. IRIS Codec Call  Monitor and IRIS Discovery are the management platforms. IRIS Connect is the companion SIP server configuration for the Kamailio Open Source SIP server.
+The platform consists of several modules that together support the contribution network. IRIS Codec Call Monitor and IRIS Discovery are the management platforms. IRIS Connect is the companion SIP server configuration for the Kamailio Open Source SIP server.
 
 ## Free to use, modify and put in production
 
@@ -78,12 +80,6 @@ ___
 - Standardised SIP server platform supporting all standard SIP user agents.
 - Ready-to-run configuration
 - Scalable to thousands of devices and calls
-
-## Requirements
-
-- Debian Linux
-- MySQL database
-- RTPengine media server (Open Source)
 
 ## Availability
 
