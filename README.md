@@ -1,8 +1,6 @@
-# irisbroadcast.github.io
-
 ![IRIS Broadcast](logo-iris.png)
 
-[About](README_ABOUT.md)
+Home - [About ACIP](README_ABOUT.md)
 
 # Welcome
 IRIS Broadcast is a project founded in Sweden to publish Open Source software for professional radio broadcast. The IRIS Codec Call Monitor (CCM) is available for download on GitHub.com.
