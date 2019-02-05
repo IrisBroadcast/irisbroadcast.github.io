@@ -1,6 +1,6 @@
-# irisbroadcast.github.io
+![IRIS Broadcast](logo-iris.png)
 
-[Home](README.md) - [Blog](README_BLOG.md)
+[Home](README.md) - About ACIP
 
 # ACIP – AUDIO CONTRIBUTION OVER IP
 ACIP is an EBU standard that is the basis of the IRIS Codec Call Monitor, 
