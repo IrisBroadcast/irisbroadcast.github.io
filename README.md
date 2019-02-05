@@ -2,6 +2,15 @@
 
 [About](README_ABOUT.md) - [Blog](README_BLOG.md)
 
+# Welcome
+IRIS Broadcast is a project founded in Sweden to publish Open Source software for professional radio broadcast. The IRIS Codec Call Monitor (CCM) is available for download on GitHub.com.
+
+CCM contains both a live overview of the current broadcasts in our SIP-based contribution network as well as a management platform and a discovery service frequently described as the “Active Phonebook”. The platform is used 24/7 producing over 2500 hours of live radio every month.
+
+The journey from our launch in May 2017 to the initial release of the software November 1st 2017 has been be covered on this website as well as on Twitter (@irisbroadcast). Now the journey continues – forming an open project, creating a dialog with our users and interacting to produce better software.
+
+Our solutions are based on the EBU and IETF standards and are built for national public radio to manage our external contribution platform.
+
 # THE SOFTWARE – IRIS CODEC CALL MONITOR
 
 The IRIS Broadcast Platform is a management software for live broadcast using ACIP-compatible codec equipment in a professional radio environment.  A versatile and extensible solution based on many years of experience and thousands of hours of live radio produced.
