@@ -31,7 +31,7 @@ The platform consists of several modules that together support the contribution 
 
 The IRIS Platform is licensed using an Open Source license. We are working on finding out which one, based on the libraries used in building the software. The license will mean that IRIS Broadcast can be freely used in your production, also giving you the rights to modify the software as you wish. We want to build a strong community surrounding the platform and invite you to participate!
 
-# IRIS Codec Call Monitor
+___
 
 ## Features
 
@@ -50,9 +50,9 @@ The IRIS Platform is licensed using an Open Source license. We are working on fi
 
 ## Requirements
 
-Windows Server
-MySQL or MariaDB database server
-IRIS Connect
+- Windows Server
+- MySQL or MariaDB database server
+- IRIS Connect
 
 ## Technical features
 
