@@ -1,6 +1,6 @@
 # irisbroadcast.github.io
 
-[About](README_ABOUT.md) - [Blog](README_BLOG.md)
+[About](README_ABOUT.md)
 
 # Welcome
 IRIS Broadcast is a project founded in Sweden to publish Open Source software for professional radio broadcast. The IRIS Codec Call Monitor (CCM) is available for download on GitHub.com.
@@ -15,9 +15,24 @@ The CCM software is the heart of the IP based contribution network, giving users
 
 The CCM code is now available on [Github.com/irisbroadcast](http://github.com/irisbroadcast) for download, testing and improvements. We invite you to test it and give us feedback!
 
-# THE SOFTWARE – IRIS CODEC CALL MONITOR
+# THE SOFTWARE - IRIS
 
 The IRIS Broadcast Platform is a management software for live broadcast using ACIP-compatible codec equipment in a professional radio environment.  A versatile and extensible solution based on many years of experience and thousands of hours of live radio produced.
+
+It's a software suite:
+### IRIS Codec Call Monitor (.NET MVC + MySQL /MSSQL) (Windows Server)
+- - Kamailio event reciever
+- - Discovery REST API
+- - General Query REST API + Web Socket (SignalR)
+- - Administrative Interface + Monitor + Statistics
+
+### IRIS Connect (Kamailio) (Debian)
+- - Kamailio configuration for sending events to CCM
+
+### IRIS Codec Control (.NET CORE MVC) (Windows/Linux) *Add this if you need codec control*
+- - Proxy for Codec Control requests, protocol translation and unification
+- - Query's CCM with SIP-address for getting IP-address to control
+- - REST API + Web Socket (SignalR) interface for codec control
 
 ## Platform-independent user friendly user interface
 
@@ -47,12 +62,6 @@ ___
 - Gives the master control room an overview of current sessions
 - Get statistics over usage per codec type, region or user
 - Helps users find available codecs
-
-## Requirements
-
-- Windows Server
-- MySQL or MariaDB database server
-- IRIS Connect
 
 ## Technical features
 
