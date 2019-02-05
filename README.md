@@ -1,5 +1,7 @@
 # irisbroadcast.github.io
 
+[About](README_ABOUT.md) - [Blog](README_BLOG.md)
+
 # THE SOFTWARE – IRIS CODEC CALL MONITOR
 
 The IRIS Broadcast Platform is a management software for live broadcast using ACIP-compatible codec equipment in a professional radio environment.  A versatile and extensible solution based on many years of experience and thousands of hours of live radio produced.
