@@ -26,13 +26,19 @@ It's a software suite:
 - General Query REST API + Web Socket (SignalR)
 - Administrative Interface + Monitor + Statistics
 
+[Github.com/irisbroadcast/CCM](https://github.com/IrisBroadcast/CCM)
+
 #### IRIS Connect (Kamailio + MySQL + RTPengine media server 'Open Source') (Debian Linux)
 - Kamailio configuration for sending events to CCM
+
+[Github.com/irisbroadcast/Connect](https://github.com/IrisBroadcast/Connect)
 
 #### IRIS Codec Control (.NET CORE MVC) (Windows/Linux) *Add this if you need codec control*
 - Proxy for Codec Control requests, protocol translation and unification
 - Query's CCM with SIP-address for getting IP-address to control
 - REST API + Web Socket (SignalR) interface for codec control
+
+[Github.com/irisbroadcast/CodecControl](https://github.com/IrisBroadcast/CodecControl)
 
 ## Platform-independent user friendly interface
 
