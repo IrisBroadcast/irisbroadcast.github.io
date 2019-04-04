@@ -15,6 +15,9 @@ The CCM software is the heart of the IP based contribution network, giving users
 
 The CCM code is now available on [Github.com/irisbroadcast](http://github.com/irisbroadcast) for download, testing and improvements. We invite you to test it and give us feedback!
 
+
+![IRIS Broadcast System Diagram](system-diagram.png)
+
 # THE SOFTWARE - IRIS
 
 The IRIS Broadcast Platform is a management software for live broadcast using ACIP-compatible codec equipment in a professional radio environment.  A versatile and extensible solution based on many years of experience and thousands of hours of live radio produced.
@@ -44,7 +47,7 @@ It's a software suite:
 
 Built with the user in focus, IRIS Broadcast delivers a lot of flexibility in a graphical user interface built to support a professional broadcast production. Delivered as a web-based application, the monitor can be used on many devices – from mobile units to wall displays updated in real time.
 
-## Modular design 
+## Modular design
 
 The platform consists of several modules that together support the contribution network. IRIS Codec Call Monitor and IRIS Discovery are the management platforms. IRIS Connect is the companion SIP server configuration for the Kamailio Open Source SIP server.
 
