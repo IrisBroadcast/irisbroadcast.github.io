@@ -43,6 +43,9 @@ It's a software suite:
 
 [Github.com/irisbroadcast/CodecControl](https://github.com/IrisBroadcast/CodecControl)
 
+#### IRIS Dialer (Release May 2019)
+- A dialer implementation with the Active Phonebook (IRIS Discovery) and Codec Control API. 
+
 ## Platform-independent user friendly interface
 
 Built with the user in focus, IRIS Broadcast delivers a lot of flexibility in a graphical user interface built to support a professional broadcast production. Delivered as a web-based application, the monitor can be used on many devices – from mobile units to wall displays updated in real time.
