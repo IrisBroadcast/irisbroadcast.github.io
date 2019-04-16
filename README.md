@@ -74,6 +74,9 @@ ___
 - Gives the master control room an overview of current sessions
 - Get statistics over usage per codec type, region or user
 - Helps users find available codecs
+- Standardised SIP server platform supporting all standard SIP user agents.
+- Ready-to-run configuration
+- Scalable to thousands of devices and calls
 
 ## Technical features
 
@@ -84,12 +87,6 @@ ___
 - Integration with IRIS CCM and discovery using HTTP
 - Support for SIP using UDP, TCP and TLS
 - Support for IPv6 and IPv4
-
-## Benefits
-
-- Standardised SIP server platform supporting all standard SIP user agents.
-- Ready-to-run configuration
-- Scalable to thousands of devices and calls
 
 ## Availability
 
