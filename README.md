@@ -84,7 +84,7 @@ ___
 - Open Source software and configuration
 - Failover between datacenters
 - Realtime replication between servers
-- Integration with IRIS CCM and discovery using HTTP
+- Integration with IRIS CCM and discovery using HTTPS
 - Support for SIP using UDP, TCP and TLS
 - Support for IPv6 and IPv4
 
