@@ -25,7 +25,7 @@ The IRIS Broadcast Platform is a management software for live broadcast using AC
 It's a software suite:
 #### IRIS Codec Call Monitor + Discovery (.NET MVC + MySQL /MSSQL) (Windows Server)
 - Kamailio event reciever
-- Discovery REST API
+- Discovery REST API [https://github.com/IrisBroadcast/CCM/tree/master/CCM.DiscoveryApi](Description)
 - General Query REST API + Web Socket (SignalR)
 - Administrative Interface + Monitor + Statistics
 
