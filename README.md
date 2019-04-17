@@ -23,13 +23,16 @@ The CCM code is now available on [Github.com/irisbroadcast](http://github.com/ir
 The IRIS Broadcast Platform is a management software for live broadcast using ACIP-compatible codec equipment in a professional radio environment.  A versatile and extensible solution based on many years of experience and thousands of hours of live radio produced.
 
 It's a software suite:
+
 #### IRIS Codec Call Monitor + Discovery (.NET MVC + MySQL /MSSQL) (Windows Server)
 - Kamailio event reciever
-- Discovery REST API [https://github.com/IrisBroadcast/CCM/tree/master/CCM.DiscoveryApi](Description)
+- Discovery REST API ([Description](https://github.com/IrisBroadcast/CCM/tree/master/CCM.DiscoveryApi))
 - General Query REST API + Web Socket (SignalR)
 - Administrative Interface + Monitor + Statistics
 
 [Github.com/irisbroadcast/CCM](https://github.com/IrisBroadcast/CCM)
+
+![Codec Call Monitor frontpage](webpage-ccm.png)
 
 #### IRIS Connect (Kamailio + MySQL + RTPengine media server 'Open Source') (Debian Linux)
 - Kamailio configuration for sending events to CCM
