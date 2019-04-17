@@ -3,7 +3,7 @@
 [Home](README.md) - About ACIP - [Contributers](README_CONTRIBUTERS.md)
 
 # ACIP – AUDIO CONTRIBUTION OVER IP
-ACIP is an EBU standard that is the basis of the IRIS Codec Call Monitor, 
+ACIP is an EBU recommentation that is the basis of the IRIS Codec Call Monitor, 
 ACIP outlines a few protocols and adds more specific profiles to be used in audio broadcast. 
 ACIP is based on a range of IETF protocols for realtime communications – SIP, RTP, SDP and more. 
 These protocols are very generic and there are several industry forums that have produced more specific reference profiles, 
