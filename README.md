@@ -59,7 +59,7 @@ The platform consists of several modules that together support the contribution 
 
 ## Free to use, modify and put in production
 
-The IRIS Platform is licensed using an Open Source license. We are working on finding out which one, based on the libraries used in building the software. The license will mean that IRIS Broadcast can be freely used in your production, also giving you the rights to modify the software as you wish. We want to build a strong community surrounding the platform and invite you to participate!
+The IRIS Platform is licensed using an Open Source license (BSD 3-Clause License). Libraries used in the code might contain different licenses. The license will mean that IRIS Broadcast can be freely used in your production, also giving you the rights to modify the software as you wish. We want to build a strong community surrounding the platform and invite you to participate!
 
 ___
 
