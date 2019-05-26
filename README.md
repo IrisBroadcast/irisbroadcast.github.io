@@ -53,15 +53,11 @@ It's a software suite:
 
 Built with the user in focus, IRIS Broadcast delivers a lot of flexibility in a graphical user interface built to support a professional broadcast production. Delivered as a web-based application, the monitor can be used on many devices – from mobile units to wall displays updated in real time.
 
+# Details
+
 ## Modular design
 
 The platform consists of several modules that together support the contribution network. IRIS Codec Call Monitor and IRIS Discovery are the management platforms. IRIS Connect is the companion SIP server configuration for the Kamailio Open Source SIP server.
-
-## Free to use, modify and put in production
-
-The IRIS Platform is licensed using an Open Source license (BSD 3-Clause License). Libraries used in the code might contain different licenses. The license will mean that IRIS Broadcast can be freely used in your production, also giving you the rights to modify the software as you wish. We want to build a strong community surrounding the platform and invite you to participate!
-
-___
 
 ## Features
 
@@ -91,6 +87,30 @@ ___
 - Support for SIP using UDP, TCP and TLS
 - Support for IPv6 and IPv4
 
-## Availability
 
-The IRIS Codec Call Monitor and Discovery platform is available for free download on github.com/irisbroadcast. The software is licensed with the BSD 3-clause license, an Open Source license. Follow us on Twitter as @irisbroadcast or check the web site for further updates.
+# Availability - Free to use, modify and put in production
+
+The IRIS Platform is licensed using an Open Source license (BSD 3-Clause License). Libraries used in the code might contain different licenses. The license will mean that IRIS Broadcast can be freely used in your production, also giving you the rights to modify the software as you wish. We want to build a strong community surrounding the platform and invite you to participate!
+
+## Going forward
+
+There is some general design goals we try to maintain. 
+- Think modules and services doing one thing very well instead of a lot of things poorly. Simplicity and easy to maintain.
+- Enable scaling, both in terms of redundance and in load balancing.
+- We operate in an environment of trust, so authentication and encryption should be put in place everywhere we can. But also keeping in mind that, it needs to be simple to be used.
+- People with different levels of programing knowledge contribute and use the system, don't make it difficult to read, maintain and understand the code. Comment freely.
+
+## Goals (2019-May)
+
+- One of the next steps is converting the CCM Project in to .NET Core. So that it could fully be runned in a Linux environment.
+
+- Improving CCMs speed. Entity framework is great, but it can make simple things difficult. And it's easy to make mistakes. We need to do an overhaul of the database queryes and models used for certain things.
+
+- Improving documentation and posting example installations.
+
+## How to
+
+Post questions, bugs and feature requests in the issue tracker for the corresponding project. We are a passionate team that would like to help you get started!
+
+Best regards
+Roger
