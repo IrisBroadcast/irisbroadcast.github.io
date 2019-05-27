@@ -2,7 +2,7 @@
 
 Home - [About ACIP](README_ABOUT.md) - [Contributers](README_CONTRIBUTERS.md)
 
-# Welcome
+# Welcome ([GitHub Project frontpage](http://github.com/irisbroadcast))
 IRIS Broadcast is a project founded in Sweden to publish Open Source software for professional radio broadcast. The IRIS Codec Call Monitor (CCM) is available for download on GitHub.com.
 
 CCM contains both a live overview of the current broadcasts in our SIP-based contribution network as well as a management platform and a discovery service frequently described as the “Active Phonebook”. The platform is used 24/7 producing over 2500 hours of live radio every month.
@@ -97,7 +97,7 @@ The IRIS Platform is licensed using an Open Source license (BSD 3-Clause License
 There is some general design goals we try to maintain. 
 - Think modules and services doing one thing very well instead of a lot of things poorly. Simplicity and easy to maintain.
 - Enable scaling, both in terms of redundance and in load balancing.
-- We operate in an environment of trust, so authentication and encryption should be put in place everywhere we can. But also keeping in mind that, it needs to be simple to be used.
+- We operate in an environment of trust, so authentication and encryption should be put in place everywhere we can. But also keeping in mind that, it needs to be simple to use.
 - People with different levels of programing knowledge contribute and use the system, don't make it difficult to read, maintain and understand the code. Comment freely.
 
 ## Goals (2019-May)
@@ -113,4 +113,5 @@ There is some general design goals we try to maintain.
 Post questions, bugs and feature requests in the issue tracker for the corresponding project. We are a passionate team that would like to help you get started!
 
 Best regards
+
 Roger
