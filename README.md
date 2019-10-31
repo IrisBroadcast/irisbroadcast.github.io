@@ -3,13 +3,13 @@
 Home - [About ACIP](README_ABOUT.md) - [Contributers](README_CONTRIBUTERS.md)
 
 # Welcome ([GitHub Project frontpage](http://github.com/irisbroadcast))
+IRIS Broadcast is a project founded in Sweden to publish Open Source software for professional radio broadcast. Our hope is that you'll find it useful. Possible even contributing to future development. These applications are used in a 24/7 365 broadcast environment. The first application we published is the IRIS Codec Call Monitor.
+
+Our solutions are based on the EBU and IETF standards and are built for national public radio to manage our external contribution platform.
+
 IRIS Broadcast is a project founded in Sweden to publish Open Source software for professional radio broadcast. The IRIS Codec Call Monitor (CCM) is available for download on GitHub.com.
 
 CCM contains both a live overview of the current broadcasts in our SIP-based contribution network as well as a management platform and a discovery service frequently described as the “Active Phonebook”. The platform is used 24/7 producing over 2500 hours of live radio every month.
-
-The journey from our launch in May 2017 to the initial release of the software November 1st 2017 has been be covered on this website as well as on Twitter (@irisbroadcast). Now the journey continues – forming an open project, creating a dialog with our users and interacting to produce better software.
-
-Our solutions are based on the EBU and IETF standards and are built for national public radio to manage our external contribution platform.
 
 The CCM software is the heart of the IP based contribution network, giving users an overview of the live calls. It also provides a dynamic directory service to all codecs.
 
@@ -21,6 +21,9 @@ The CCM code is now available on [Github.com/irisbroadcast](http://github.com/ir
 # THE SOFTWARE - IRIS
 
 The IRIS Broadcast Platform is a management software for live broadcast using ACIP-compatible codec equipment in a professional radio environment.  A versatile and extensible solution based on many years of experience and thousands of hours of live radio produced.
+
+As a part of replacing the old ISDN contribution. The Audio Contribution over IP (ACIP) enabled us to use regular IP networks with SIP as signaling and RTP as transport. But we needed a system to keep track of all the codecs and our users would strugle to remember IP-addresses and different audio algoritms. How could we provide a phonebook and be sure to provide the right audio compression algoritm selection for each device, location and use-case. The goal was to maintain as high audio quality as possible. And making sure that the call would actually make it across the available network. This is what Codec Call Monitor + Discovery + Connect solves.
+Available devices in the SIP-server is accessable as an Active phonebook. By knowing the network segments you use, the phonebook recommends a human readable profile-name representing an Session Description Protocol "SDP".
 
 It's a software suite:
 
@@ -46,8 +49,8 @@ It's a software suite:
 
 [Github.com/irisbroadcast/CodecControl](https://github.com/IrisBroadcast/CodecControl)
 
-#### IRIS Dialer (Release May 2019)
-- A dialer implementation with the Active Phonebook (IRIS Discovery) and Codec Control API. 
+#### IRIS Dialer (Release Jan 2020)
+- A dialer implementation with the Active Phonebook (IRIS Discovery) and Codec Control API.
 
 ## Platform-independent user friendly interface
 
