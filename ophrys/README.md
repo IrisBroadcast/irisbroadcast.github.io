@@ -16,6 +16,8 @@ as well. Let us know if you run into any problems or have any questions.
 
 We use it to display system monitoring and door-signage for our studios.
 
+![Ophrys Signage Screenshot](signage-screenshot.png)
+
 #### Components
 - Whiptail install script (Guides the installation of dependencies)
 - Debian + OpenBox + LightDM + Feh
@@ -31,8 +33,6 @@ We use it to display system monitoring and door-signage for our studios.
 - REST API for page refresh and */health* endpoint for status information
 - Built in multi webpage iframe view, with transitioning abilities
 - Built in webpage with a studio-clock
-
-![Ophrys Signage Screenshot](signage-screenshot.png)
 
 ## Download Ophrys installer
 Get the installer here [Download Ophrys installer ](http://irisbroadcast.com/ophrys/install.tar.gz)
