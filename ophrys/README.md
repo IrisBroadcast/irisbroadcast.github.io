@@ -29,5 +29,7 @@ Features
 - Load a configuration JSON from an external site with settings
 - REST API for page refresh and */health* endpoint for status information
 
+![Ophrys Signage Screenshot](signage-screenshot.png)
+
 ## Download Ophrys installer
 Get the installer here [Download Ophrys installer ](http://irisbroadcast.com/ophrys/install.tar.gz)
