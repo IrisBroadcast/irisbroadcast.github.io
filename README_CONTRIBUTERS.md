@@ -14,9 +14,10 @@ Without any specific order:
 * [Johan B](https://github.com/boqvist) 
 * [Anders S](https://github.com/anders-stenberg)
 * [Ola P](https://github.com/Ola-Palm)
-* [Jim E](https://github.com/djhenley)
+* [Jim Eld](https://github.com/djhenley)
 * [Olle J](https://github.com/oej) 
-* [Roger S](https://github.com/Roog)
+* [Roger Sandholm](https://github.com/Roog)
+* [Alexander G](https://github.com/agramner)
 * [Måns N]()
 
 .. 
