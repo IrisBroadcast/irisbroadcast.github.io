@@ -1,11 +1,10 @@
 ![IRIS Broadcast](../logo-iris.png)
 
-[Home IRIS](../README.md) - [About ACIP](../README_ABOUT.md) - [Contributers](../README_CONTRIBUTERS.md)
+[Home IRIS](../README.md) - [About ACIP](../README_ABOUT.md) - Ophrys Signage - [Contributers](../README_CONTRIBUTERS.md)
 
-# Ophrys Signage ([GitHub Project frontpage](http://github.com/irisbroadcast))
+# Ophrys Signage
 
-
-* Web Site: https://www.irisbroadcast.org
+* Web Site: https://www.irisbroadcast.org/ophrys
 * Github: https://github.com/IrisBroadcast/OphrysSignage
 
 A simple way to display a webpage on a screen without all the fuzz.
@@ -24,7 +23,7 @@ Components
 
 Features
 - Fullscreen browser without window decorations
-- Loading image on boot (Ophrys graphics)
+- Boot image on system start (Ophrys graphics)
 - Rotate screen on both Raspberry Pi 3 and 4 without reboot
 - Load a configuration JSON from an external site with settings
 - REST API for page refresh and */health* endpoint for status information
