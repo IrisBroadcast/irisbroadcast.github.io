@@ -10,7 +10,7 @@
 A simple way to display a webpage on a screen without all the fuzz.
 Basic signage solution with configuration page for url selection,
 screen rotation and option to fetch configuration settings from
-external server. We are using it with Debian Buster on
+external server. We are using it with Linux Debian Buster on
 Raspberry Pi 3 and 4. This should work fine on other hardwares
 as well. Let us know if you run into any problems or have any questions.
 
@@ -19,8 +19,8 @@ We use it to display system monitoring and door-signage for our broadcast studio
 ![Ophrys Signage Screenshot](signage-screenshot.png)
 
 #### Components
-- Whiptail install script (Guides the installation of dependencies)
-- Debian + OpenBox + LightDM + Feh
+- Whiptail install script (guides the installation of dependencies)
+- Debian + OpenBox + LightDM + Xserver
 - Chromium Browser + OMXPlayer
 - NodeJs server for configuration
 - Bash scripts for setting URLs and screen rotation
@@ -36,3 +36,4 @@ We use it to display system monitoring and door-signage for our broadcast studio
 
 ## Download Ophrys installer
 Get the installer here [Download Ophrys installer ](http://irisbroadcast.com/ophrys/install.tar.gz)
+You find the install instructions here [Oprhys - How to get started ](https://github.com/IrisBroadcast/OphrysSignage/blob/master/README.md#how-to-get-started-using-a-raspberry-pi)
