@@ -5,7 +5,7 @@
 # Ophrys Signage
 
 * Web Site: https://www.irisbroadcast.org/ophrys
-* Github: https://github.com/IrisBroadcast/OphrysSignage
+* Github: [Github.com/irisbroadcast/OphrysSignage](https://github.com/IrisBroadcast/OphrysSignage)
 
 A simple way to display a webpage on a screen without all the fuzz.
 Basic signage solution with configuration page for url selection,
