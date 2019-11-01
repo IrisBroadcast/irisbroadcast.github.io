@@ -36,4 +36,5 @@ We use it to display system monitoring and door-signage for our broadcast studio
 
 ## Download Ophrys installer
 Get the installer here [Download Ophrys installer ](http://irisbroadcast.com/ophrys/install.tar.gz)
-You find the install instructions here [Oprhys - How to get started ](https://github.com/IrisBroadcast/OphrysSignage/blob/master/README.md#how-to-get-started-using-a-raspberry-pi)
+
+Find the install instructions here [Oprhys - How to get started ](https://github.com/IrisBroadcast/OphrysSignage/blob/master/README.md#how-to-get-started-using-a-raspberry-pi)
