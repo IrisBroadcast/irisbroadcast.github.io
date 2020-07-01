@@ -1,6 +1,6 @@
 ![IRIS Broadcast](logo-iris.png)
 
-[Home](README.md) - IRIS Platform - [About ACIP](README_ABOUT.md) - [Ophrys Signage](ophrys/README.md) - [Larkspur EmBER+ Provider](larkspur/README_LARKSPUR.md) - [Contributers](README_CONTRIBUTERS.md)
+[Home](README.md) - IRIS Platform - [Ophrys Signage](ophrys/README.md) - [Larkspur EmBER+ Provider](larkspur/README_LARKSPUR.md) - [Contributers](README_CONTRIBUTERS.md)
 
 # IRIS Platform: Codec Call Monitor, CodecControl, Connect
 
@@ -81,7 +81,7 @@ The platform consists of several modules that together support the contribution 
 - Support for IPv6 and IPv4
 
 
-# ACIP – AUDIO CONTRIBUTION OVER IP
+# About ACIP – AUDIO CONTRIBUTION OVER IP
 ACIP is an EBU recommentation that is the basis of the IRIS Codec Call Monitor, 
 ACIP outlines a few protocols and adds more specific profiles to be used in audio broadcast. 
 ACIP is based on a range of IETF protocols for realtime communications – SIP, RTP, SDP and more. 
