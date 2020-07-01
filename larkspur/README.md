@@ -5,7 +5,7 @@
 # Larkspur EmBER+ Web Provider
 
 * Web Site: https://www.irisbroadcast.org
-* Github: https://github.com/IrisBroadcast/LarkspurEmberWebProvider
+* Github: [https://github.com/IrisBroadcast/LarkspurEmberWebProvider](https://github.com/IrisBroadcast/LarkspurEmberWebProvider)
 
 Creates an EmBER+ tree with custom leafs and nodes. The information/nodes
 is also available to access with SignalR and a REST application interface (API).
