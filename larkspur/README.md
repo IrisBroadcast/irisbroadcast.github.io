@@ -21,6 +21,8 @@ is a provider with a web-API backbone. Make your custom nodes writable or just r
 
 ![Larkspur Ember Provider Web Endpoint Screenshot](webpage-larkspurweb.png)
 
+![Larkspur Ember Provider View Screenshot](larkspur-emberview.png)
+
 ## Get started
 Use Visual Studio, there is a community edition. And just go ahead and open up the "Solution" file "LarkspurEmberWebProvider.sln". There is a section where you put in your changes, for customization.
 
