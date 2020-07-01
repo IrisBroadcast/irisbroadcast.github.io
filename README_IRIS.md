@@ -1,6 +1,6 @@
 ![IRIS Broadcast](logo-iris.png)
 
-[Home](README.md) - IRIS Platform - [Ophrys Signage](ophrys/README.md) - [Larkspur EmBER+ Provider](larkspur/README_LARKSPUR.md) - [Contributers](README_CONTRIBUTERS.md)
+[Home](README.md) - IRIS Platform - [Ophrys Signage](ophrys/README.md) - [Larkspur EmBER+ Provider](larkspur/README.md) - [Contributers](README_CONTRIBUTERS.md)
 
 # IRIS Platform: Codec Call Monitor, CodecControl, Connect
 
