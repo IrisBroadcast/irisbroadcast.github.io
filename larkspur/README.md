@@ -2,10 +2,10 @@
 
 [Home](../README.md) - [IRIS Platform](../README_IRIS.md) - [Ophrys Signage](../ophrys/README.md) - Larkspur EmBER+ Provider - [Contributers](../README_CONTRIBUTERS.md)
 
-# Larkspur EmBER+ Web Provider
+# Larkspur EmBER+ Provider
 
 * Web Site: https://www.irisbroadcast.org
-* Github: [GitHub.com/IrisBroadcast/LarkspurEmberWebProvider](https://github.com/IrisBroadcast/LarkspurEmberWebProvider)
+* Github: [GitHub.com/IrisBroadcast/LarkspurEmberPlusProvider](https://github.com/IrisBroadcast/LarkspurEmberPlusProvider)
 
 Creates an EmBER+ tree with custom leafs and nodes. The information/nodes
 is also available to access with SignalR and a REST application interface (API).
