@@ -11,7 +11,7 @@ Right now we have the following applications available:
 
 # [Ophrys Signage](ophrys/README.md)
 
-# [Larkspur EmBER+ Provider](larkspur/README_LARKSPUR.md)
+# [Larkspur EmBER+ Provider](larkspur/README.md)
 
 # Availability - Free to use, modify and put in production
 The IRIS Platform is licensed using an Open Source license (BSD 3-Clause License). Libraries used in the code might contain different licenses. The license will mean that IRIS Broadcast can be freely used in your production, also giving you the rights to modify the software as you wish. We want to build a strong community surrounding the different applications and invite you to participate!
